@@ -5,7 +5,16 @@
 nav {
   /*display: none;*/
 }
+ul{
+  display:flex;
+  list-style-type:none;
+  flex:1;
 
+}
+.watercolor-9, .watercolor-10 {
+display:flex;
+justify-content:space-between;
+}
 img {
   max-width: 175px;
   height: 125px;
